@@ -24,7 +24,7 @@ echo 'net.inet.tcp.bb.log_auto_all=1' >>/etc/sysctl.conf
 echo 'net.inet.tcp.bb.log_auto_ratio=1' >>/etc/sysctl.conf
 ```
 
-3. reboot and check
+3. Reboot and Check
 ```
 user@:~ $ reboot
 
